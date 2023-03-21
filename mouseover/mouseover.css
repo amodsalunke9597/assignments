@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+}
+
+.box{
+    display: flex;
+    height: 40vh;
+    width: 40vh;
+    justify-content: center;
+    align-items: center;
+}
