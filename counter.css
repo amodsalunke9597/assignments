@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  h1{
+    text-align: center;
+  }
+  
+.inline{
+    display: flex;
+}
+
+.input{
+    margin: 20px;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(179, 189, 189);
+    height: 30%;
+    width: 40%;
+}
+
+.reset{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
